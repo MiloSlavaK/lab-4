@@ -1,0 +1,3 @@
+C:/Users/Mila/labs/lab-4/mySwap/build/CMakeFiles/mySwap.dir
+C:/Users/Mila/labs/lab-4/mySwap/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Mila/labs/lab-4/mySwap/build/CMakeFiles/ZERO_CHECK.dir
