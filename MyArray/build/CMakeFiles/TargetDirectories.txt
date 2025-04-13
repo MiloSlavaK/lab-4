@@ -1,0 +1,3 @@
+C:/Users/Mila/labs/lab-4/MyArray/build/CMakeFiles/MyArrayExecutable.dir
+C:/Users/Mila/labs/lab-4/MyArray/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Mila/labs/lab-4/MyArray/build/CMakeFiles/ZERO_CHECK.dir

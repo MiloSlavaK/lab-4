@@ -1,0 +1,10 @@
+^C:\USERS\MILA\LABS\LAB-4\MYARRAY\BUILD\CMAKEFILES\1BF5BED390AF323663CE1BA394B711BA\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Mila/labs/lab-4/MyArray -BC:/Users/Mila/labs/lab-4/MyArray/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Mila/labs/lab-4/MyArray/build/MyArrayProject.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
