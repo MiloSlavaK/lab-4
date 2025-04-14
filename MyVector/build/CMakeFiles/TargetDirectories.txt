@@ -1,0 +1,3 @@
+C:/Users/Mila/labs/lab-4/MyVector/build/CMakeFiles/MyVector.dir
+C:/Users/Mila/labs/lab-4/MyVector/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Mila/labs/lab-4/MyVector/build/CMakeFiles/ZERO_CHECK.dir
